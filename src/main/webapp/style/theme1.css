@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+h1 {
+   color:blue;
+   font-family:"Arial";
+}
+
+label {
+   display:block;
+   width:210px;
+   float:left;
+   font-family:"Arial";
+}
+
+input[type="text"]
+{
+   width:200px;
+   font-family:"Arial";
+}
+
+input[type="submit"]
+{
+   width:100px;
+   font-family:"Arial";
+}
+
+select
+{
+   width:206px;
+   font-family:"Arial";
+}
+
+.error
+{
+	color:red;
+	
+}
